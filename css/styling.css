@@ -2048,7 +2048,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
   font-family: Vazirmatn Variablefont Wght;
-  src: url("/images/gxfr_686251ae5dec91e7215769a8_Vazirmatn-VariableFont_wght.ttf") format("truetype");
+  src: url("../images/gxfr_686251ae5dec91e7215769a8_Vazirmatn-VariableFont_wght.ttf") format("truetype");
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -4174,7 +4174,7 @@ img {
   object-fit: cover;
   width: 100%;
   max-width: none;
-  height: 100%;
+  /* height: 100%; */
   position: sticky;
   inset: 0%;
 }
@@ -4494,7 +4494,7 @@ img {
 .input.select {
   -webkit-appearance: none;
   appearance: none;
-  background-image: url("/images/mgeo_6861486eb51ea34335d1d628_Chevron_20Down.svg");
+  background-image: url("../images/mgeo_6861486eb51ea34335d1d628_Chevron_20Down.svg");
   background-position: 96%;
   background-repeat: no-repeat;
   background-size: 16px 16px;
@@ -5786,7 +5786,7 @@ img {
   }
 
   .menu-button {
-    background-image: url("/images/m5kt_689ac9d5c946ba9bb8abb363_menu.svg");
+    background-image: url("../images/m5kt_689ac9d5c946ba9bb8abb363_menu.svg");
     background-position: 50%;
     background-size: auto;
     width: 24px;
@@ -6378,7 +6378,7 @@ img {
   }
 
   .menu-button {
-    background-image: url("/images/m5kt_689ac9d5c946ba9bb8abb363_menu.svg");
+    background-image: url("../images/m5kt_689ac9d5c946ba9bb8abb363_menu.svg");
     background-position: 50%;
     background-size: auto;
     width: 24px;
